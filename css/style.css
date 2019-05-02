@@ -5,7 +5,7 @@ body {
 }
 
 nav ul {
-    list-style: 0;
+    list-style: none;
     background-color: #4a4a4f;
     text-align: center;
     margin: 0;
